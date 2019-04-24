@@ -1,9 +1,8 @@
 [package]
-name = "tokio-bugfix"
+name = "tokio-read-to-end-demo"
 version = "0.1.0"
 authors = ["Jonathan Chan <jonchanyc@outlook.com>"]
 edition = "2018"
 
 [dependencies]
 tokio = "0.1.19"
-# futures = "0.1.20"
